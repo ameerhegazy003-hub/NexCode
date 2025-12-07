@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "title": "HTML Basics",
+      "description": "تعلم أساسيات HTML لبناء هيكل صفحات الويب",
+      "duration": "3 ساعات",
+      "level": "beginner"
+    },
+    {
+      "id": 2,
+      "title": "CSS Mastery",
+      "description": "أتقن CSS لتصميم صفحات ويب جميلة ومتجاوبة",
+      "duration": "4 ساعات",
+      "level": "beginner"
+    },
+    {
+      "id": 3,
+      "title": "JavaScript Essentials",
+      "description": "تعلم JavaScript لبناء تطبيقات ويب تفاعلية",
+      "duration": "6 ساعات",
+      "level": "intermediate"
+    },
+    {
+      "id": 4,
+      "title": "React Fundamentals",
+      "description": "ابدأ رحلتك مع React لبناء واجهات مستخدم حديثة",
+      "duration": "8 ساعات",
+      "level": "intermediate"
+    },
+    {
+      "id": 5,
+      "title": "Node.js Backend",
+      "description": "تعلم Node.js لبناء خوادم وتطبيقات خلفية",
+      "duration": "10 ساعات",
+      "level": "advanced"
+    },
+    {
+      "id": 6,
+      "title": "Database Design",
+      "description": "أتقن تصميم قواعد البيانات وإدارة البيانات",
+      "duration": "5 ساعات",
+      "level": "intermediate"
+    }
+  ]
+  
