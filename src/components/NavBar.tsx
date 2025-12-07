@@ -8,7 +8,7 @@ interface NavBarProps {
 
 function NavBar ({onMenuClick}:NavBarProps){
 
-    const {user,logout} = useAuth();
+    const {user} = useAuth();
 
     return(
         <nav className="w-full fixed top-0 left-0 z-50 h-[70px] flex items-center justify-center px-auto bg-white dark:bg-black  transition-colors duration-300 ease-in-out backdrop-blur-xl shadow-lg ">
