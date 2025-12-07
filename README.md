@@ -126,7 +126,7 @@ Coming soon...
 ## 🖼️ Logo
 Here is the official NexCode logo:
 
-![NexCode Logo](nexcode-logo.png)
+![NexCode Logo](https://github.com/ameerhegazy003-hub/NexCode/blob/main/nexcode-logo.png)
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 64 64">
